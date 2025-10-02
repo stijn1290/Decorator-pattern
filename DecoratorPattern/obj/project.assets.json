@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\stijn\\Downloads\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\DecoratorPattern.csproj",
+      "projectUniqueName": "C:\\Users\\stijn\\Source\\Repos\\Decorator-pattern\\DecoratorPattern\\DecoratorPattern.csproj",
       "projectName": "DecoratorPattern",
-      "projectPath": "C:\\Users\\stijn\\Downloads\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\DecoratorPattern.csproj",
+      "projectPath": "C:\\Users\\stijn\\Source\\Repos\\Decorator-pattern\\DecoratorPattern\\DecoratorPattern.csproj",
       "packagesPath": "C:\\Users\\stijn\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\stijn\\Downloads\\003 - DecoratorPattern\\003 - DecoratorPattern\\DecoratorPattern\\obj\\",
+      "outputPath": "C:\\Users\\stijn\\Source\\Repos\\Decorator-pattern\\DecoratorPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
